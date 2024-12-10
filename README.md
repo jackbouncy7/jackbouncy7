@@ -1,5 +1,5 @@
 <h2> Hi, I'm Akbar! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/UcK7JalnjCz0k/giphy.gif" width="230">
 <p><em>Frontend Developer from Uzbekistan <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Currently learning and building exciting projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -11,11 +11,11 @@
 ```javascript
 const akbar = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, React, Node.js],
-  tools: [Framer, WordPress, Netlify, Local by Flywheel],
+  code: [Javascript, HTML, CSS, React and more],
+  tools: [Framer, WordPress, Webflow],
   projects: [
-    "Auto parts business landing page",
-    "Fading text effect with HTML & CSS",
+    "SaaS landing page",
+    "URL shortener",
     "Screen recorder app with zoom features"
   ],
   goals: "Building my career as a developer and launching SaaS products",
